@@ -1,9 +1,7 @@
-#Índice
-
-* Larry Plotter y el bucle filosofal
-* Larry Plotter y la clave secreta del Wi-Fi
-* Larry Plotter y el prisionero del firewall
-* Larry Plotter y el malware de fuego
-* Larry Plotter y la orden de Unix
-* Larry Plotter y el misterio del hacker
-* Larry Plotter y los commits de la muerte
+* Larry Plotter y El Bucle Filosofal
+* Larry Plotter y La Clave Secreta del Wifi
+* Larry Plotter y El Prisionero del Firewall
+* Larry Plotter y El Malware de Softonic
+* Larry Plotter y La Orden de Unix
+* Larry Plotter y El Misterio del Hacker
+* Larry Plotter y Los Commits de la Muerte
